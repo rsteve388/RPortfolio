@@ -1,6 +1,6 @@
 ## Rachel Stevenson's Portfolio 
-Portfolio for all of the maps, apps and documents to showcase my work. 
-The portfolio will consist of the following: 
+<p>Portfolio for all of the maps, apps and documents to showcase my work.</p> 
+<p>The portfolio will consist of the following:</p> 
 <div class = "title"> 
 <ul>
   <li>About Me</li> 
