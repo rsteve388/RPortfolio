@@ -1,10 +1,10 @@
 ## Rachel Stevenson's Portfolio 
 Portfolio for all of the maps, apps and documents to showcase my work. 
 The portfolio will consist of the following: 
-  -About Me 
-  -Current Projects 
-  -Resume 
-  -Contact Me 
+  - [] About Me 
+  - [] Current Projects 
+  - [] Resume 
+  - [] Contact Me 
  The timeline for this doucment is as follows: 
  **July 2018:** 
  1.) Create The ReadME file. 
