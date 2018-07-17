@@ -10,16 +10,10 @@ The portfolio will consist of the following:
   <div class= "timeline">
   <p>The timeline for this doucment is as follows: </p>
   <ol>
- July 2018: 
- <li> Create The ReadME file.</li>
- August 2018:
- <li> Create the HTML Document for the website.</li> 
- September 2018
- <li> Create the Javascript to build the functionality. </li>
- October 2018
- <li> Create the CSS for the design and look of the site.</li> 
- November 2018 
- <li> Implment Node.js and Testing </li> 
- December 2018
- <li> Deploy Website for publication</li> 
- 
+ <li> July: Create The ReadME file.</li>
+ <li> August: Create the HTML Document for the website.</li> 
+ <li> September: Create the Javascript to build the functionality. </li>
+ <li> October:  Create the CSS for the design and look of the site.</li> 
+ <li> November: Implment Node.js and Testing </li> 
+ <li> December: Deploy Website for publication</li> 
+  </ol>
