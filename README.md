@@ -10,10 +10,10 @@
   <div class= "timeline">
   <p>The timeline for this doucment is as follows: </p>
   <ol>
- <li> July: Create The ReadME file.</li>
- <li> August: Create the HTML Document for the website.</li> 
- <li> September: Create the Javascript to build the functionality. </li>
- <li> October:  Create the CSS for the design and look of the site.</li> 
- <li> November: Implment Node.js and Testing </li> 
- <li> December: Deploy Website for publication</li> 
+ <li> April: Create The ReadME file.</li>
+ <li> May: Create the HTML Document for the website.</li> 
+ <li> July: Create the Javascript to build the functionality. </li>
+ <li> September:  Create the CSS for the design and look of the site.</li> 
+ <li> December: Implment Node.js and Testing </li> 
+ <li> Febuary: Deploy Website for publication</li> 
   </ol>
